@@ -1,6 +1,6 @@
 # UserRecon v1.0
-# Author: MeditLon
-# https://github.com/meditlon/userrecon
+# Author: BromitLon
+# https://github.com/bromitlon/userrecon
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
@@ -8,7 +8,7 @@ This is useful if you are running an investigation to determine the usage of the
 ## Installation
 
 ``` 
-git clone https://github.com/meditlon/userrecon
+git clone https://github.com/bromitlon/userrecon
 cd userrecon
 bash userrcon.sh
 
